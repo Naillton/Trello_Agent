@@ -1,0 +1,21 @@
+# ambiente virtual
+.venv/
+.trelloapp/
+
+# variáveis de ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
+
+# logs e temporários
+*.log
+*.tmp
